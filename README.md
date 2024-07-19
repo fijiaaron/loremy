@@ -1,4 +1,4 @@
-#Loremy
+# Loremy
 
 A simple utility to create random fake text.  Lorem ipsum but nonsense.
 
